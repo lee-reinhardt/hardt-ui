@@ -6,6 +6,10 @@
       "packages/*"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-reinhardt/hardt-ui.git"
+  },
   "license": "MIT",
   "scripts": {
     "lint:types": "lerna exec --parallel \"tsc --noEmit\"",
