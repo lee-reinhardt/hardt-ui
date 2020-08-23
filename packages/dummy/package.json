@@ -1,6 +1,6 @@
 {
   "name": "@hardt-ui/dummy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hardt UI - Dummy",
   "keywords": [],
   "sideEffects": false,
@@ -29,8 +29,6 @@
     "lint:src": "eslint src --ext .ts,.tsx --config ../../.eslintrc",
     "lint:types": "tsc --noEmit"
   },
-  "dependencies": {},
-  "devDependencies": {},
   "peerDependencies": {
     "react": "16.x"
   }
