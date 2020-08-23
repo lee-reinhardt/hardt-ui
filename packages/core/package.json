@@ -34,5 +34,6 @@
   "peerDependencies": {
     "react": "16.x"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "e509d437d73ba60531e4a6954b14638d1206e6c0"
 }
