@@ -28,8 +28,8 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@hardt-ui/dizzy": "0.0.1",
-    "@hardt-ui/dummy": "0.0.1"
+    "@hardt-ui/dizzy": "^0.0.1",
+    "@hardt-ui/dummy": "^0.0.1"
   },
   "peerDependencies": {
     "react": "16.x"

@@ -29,8 +29,6 @@
     "lint:src": "eslint src --ext .ts,.tsx --config ../../.eslintrc",
     "lint:types": "tsc --noEmit"
   },
-  "dependencies": {},
-  "devDependencies": {},
   "peerDependencies": {
     "react": "16.x"
   }
