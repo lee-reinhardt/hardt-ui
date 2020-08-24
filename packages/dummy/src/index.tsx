@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 export const Dummy = () => {
-  return <div>dummy</div>
+  return <div>dummy 2</div>
 }
 
 const run = (foo: string) => {

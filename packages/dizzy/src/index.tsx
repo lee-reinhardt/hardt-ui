@@ -5,7 +5,7 @@ interface DizzyProps {
 }
 
 export const Dizzy = ({ text }: DizzyProps) => {
-  return <div>dummy: {text}</div>
+  return <div>dizzy 2: {text}</div>
 }
 
 const run = () => {
