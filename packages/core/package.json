@@ -1,6 +1,6 @@
 {
   "name": "@hardt-ui/core",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Hardt UI",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -28,8 +28,8 @@
     "lint:types": "tsc --noEmit"
   },
   "dependencies": {
-    "@hardt-ui/dizzy": "^0.0.4",
-    "@hardt-ui/dummy": "^0.0.4"
+    "@hardt-ui/dizzy": "^0.0.5",
+    "@hardt-ui/dummy": "^0.0.5"
   },
   "peerDependencies": {
     "react": "16.x"
