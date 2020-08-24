@@ -11,7 +11,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 
 var Dizzy = function Dizzy(_ref) {
   var text = _ref.text;
-  return /*#__PURE__*/React.createElement("div", null, "dummy: ", text);
+  return /*#__PURE__*/React.createElement("div", null, "dizzy 2: ", text);
 };
 
 exports.Dizzy = Dizzy;

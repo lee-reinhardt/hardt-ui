@@ -3,7 +3,7 @@ export var Dizzy = (_ref) => {
   var {
     text
   } = _ref;
-  return /*#__PURE__*/React.createElement("div", null, "dummy: ", text);
+  return /*#__PURE__*/React.createElement("div", null, "dizzy 2: ", text);
 };
 
 var run = () => {
